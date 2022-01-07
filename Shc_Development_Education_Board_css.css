@@ -1,0 +1,4 @@
+body {background-color: cadetblue; text-align: center;}
+h1 {color: #f0ffee;}
+figcaption {color:rgb(251, 255, 0)}
+figure {display: inline-block; width: 25%; float: center; margin: 0; text-align: center;padding: 0;}
